@@ -1,7 +1,8 @@
-const CACHE_NAME = "amanias::v5.2";
+const CACHE_NAME = "amanias::v7.0";
 const FILES_TO_CACHE = [
   '/',
   '/doc/cv.pdf',
+  '/doc/google.pdf',
   '/doc/sepe.pdf',
   '/doc/upm.pdf',  
   '/img/apple-152x152.png',
