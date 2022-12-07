@@ -10,7 +10,7 @@ function iniciar() {
 			$contacto.href = "tel://+34644252616";
 		}
 		else { // Landscape
-			$contacto.href = "mailto:trabajo@amanias.com";
+			$contacto.href = "mailto:empleo@amanyes.com";
 		}
 
 	}
