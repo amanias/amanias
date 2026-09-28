@@ -346,8 +346,3 @@ a {
         font-size: 2rem;
     }
 }
-
-/* Fix exclusivo para que Firefox no colapse el QR */
-#contacto-imagen {
-    aspect-ratio: 1 / 1;
-}
